@@ -1,0 +1,8 @@
+name: ReportSystemNK-DA
+version: 1.0.0-SNAPSHOT
+api: 1.0.0
+author: Mundschutziii
+main: net.llamadevelopment.reportsystemda.ReportSystemDA
+description: Discord Announcement-Addon for ReportSystemNK
+depend:
+  - ReportSystemNK

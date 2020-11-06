@@ -1,0 +1,25 @@
+# - - - Embeds - - -
+# Choose color codes from https://www.htmlcolor-picker.com/
+
+reportplayer-title: "New player report"
+reportplayer-description: "[0] has been reported."
+reportplayer-id: "Identification"
+reportplayer-reason: "Reason"
+reportplayer-player: "Reported by"
+reportplayer-color: "#EE1111"
+
+reportclose-title: "Report closed"
+reportclose-description: "A report about [0] has been closed."
+reportclose-id: "Identification"
+reportclose-reason: "Reason"
+reportclose-player: "Reported by"
+reportclose-member: "Report manager"
+reportclose-color: "#05F914"
+
+updatestatus-title: "Report status updated"
+updatestatus-description: "The status about report [0] has been updated to [1]."
+updatestatus-color: "#FFF000"
+
+updatestaff-title: "Report manager updated"
+updatestaff-description: "The manager about report [0] has been updated to [1]."
+updatestaff-color: "#FFF000"
